@@ -1,4 +1,4 @@
-# Derived data dictionary - v1.0
+# Derived data dictionary - v1.1
 
 Original variables and their roles are documented in A1 and B1 of the notebook. Original columns remain in their original order at the start of each CSV.
 

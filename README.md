@@ -1,6 +1,6 @@
 # Assignment 2 cleaned datasets - 23L-0531
 
-Version: **v1.0**. Prepared: **20 October 2026** (Asia/Karachi).
+Version: **v1.1**. Prepared: **20 October 2026** (Asia/Karachi).
 
 Repository: https://github.com/alimahoon1/Assignment2_23L_0531-
 
@@ -11,13 +11,13 @@ Repository: https://github.com/alimahoon1/Assignment2_23L_0531-
 | Netflix | `23L_0531_A2_netflix_cleaned.csv` | 8,807 | 29 |
 | Supermarket Sales | `23L_0531_A2_supermarket_cleaned.csv` | 1,000 | 23 |
 
-Use the **v1.0 tag**, not a moving branch, for Assignment 3:
+Use the **v1.1 tag**, not a moving branch, for Assignment 3:
 
-- Netflix: https://raw.githubusercontent.com/alimahoon1/Assignment2_23L_0531-/v1.0/23L_0531_A2_netflix_cleaned.csv
-- Supermarket: https://raw.githubusercontent.com/alimahoon1/Assignment2_23L_0531-/v1.0/23L_0531_A2_supermarket_cleaned.csv
-- Version: https://github.com/alimahoon1/Assignment2_23L_0531-/tree/v1.0
+- Netflix: https://raw.githubusercontent.com/alimahoon1/Assignment2_23L_0531-/v1.1/23L_0531_A2_netflix_cleaned.csv
+- Supermarket: https://raw.githubusercontent.com/alimahoon1/Assignment2_23L_0531-/v1.1/23L_0531_A2_supermarket_cleaned.csv
+- Version: https://github.com/alimahoon1/Assignment2_23L_0531-/tree/v1.1
 
-`SHA256SUMS.txt` identifies the exact published bytes. Do not overwrite v1.0; publish any subsequent changes under a new tag and explain them.
+`SHA256SUMS.txt` identifies the exact published bytes. Do not overwrite v1.1; publish any subsequent changes under a new tag and explain them.
 
 ## Sources and rights
 
